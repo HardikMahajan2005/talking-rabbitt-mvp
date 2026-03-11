@@ -1,0 +1,72 @@
+Date,Region,City,Category,Product,Units_Sold,Revenue,Target,Channel
+2025-01-05,North,Delhi,Footwear,Running Shoes,320,480000,450000,Offline
+2025-01-05,North,Delhi,Apparel,Sports T-Shirt,210,126000,130000,Offline
+2025-01-06,West,Mumbai,Footwear,Running Shoes,410,615000,580000,Offline
+2025-01-06,West,Mumbai,Accessories,Sports Bag,180,90000,95000,Online
+2025-01-07,South,Bangalore,Footwear,Training Shoes,290,406000,380000,Online
+2025-01-07,South,Bangalore,Apparel,Track Pants,340,204000,210000,Offline
+2025-01-08,East,Kolkata,Footwear,Running Shoes,180,270000,290000,Offline
+2025-01-08,East,Kolkata,Accessories,Cap,220,44000,50000,Online
+2025-01-10,North,Delhi,Footwear,Training Shoes,280,392000,370000,Online
+2025-01-10,West,Pune,Apparel,Sports T-Shirt,190,114000,120000,Offline
+2025-01-12,South,Chennai,Footwear,Running Shoes,310,465000,440000,Online
+2025-01-12,South,Chennai,Apparel,Track Pants,260,156000,160000,Offline
+2025-01-14,North,Chandigarh,Footwear,Running Shoes,150,225000,230000,Offline
+2025-01-14,West,Ahmedabad,Accessories,Sports Bag,200,100000,110000,Online
+2025-01-15,East,Bhubaneswar,Footwear,Training Shoes,120,168000,180000,Offline
+2025-02-02,North,Delhi,Footwear,Running Shoes,380,570000,520000,Offline
+2025-02-02,West,Mumbai,Footwear,Training Shoes,460,644000,600000,Online
+2025-02-04,South,Bangalore,Accessories,Sports Bag,250,125000,130000,Online
+2025-02-05,East,Kolkata,Apparel,Sports T-Shirt,200,120000,125000,Offline
+2025-02-06,North,Delhi,Apparel,Track Pants,310,186000,190000,Online
+2025-02-08,West,Mumbai,Accessories,Cap,430,86000,90000,Offline
+2025-02-09,South,Hyderabad,Footwear,Running Shoes,360,540000,500000,Online
+2025-02-10,North,Jaipur,Footwear,Training Shoes,170,238000,250000,Offline
+2025-02-12,East,Kolkata,Footwear,Running Shoes,220,330000,310000,Online
+2025-02-14,South,Chennai,Apparel,Sports T-Shirt,280,168000,175000,Offline
+2025-02-15,West,Pune,Footwear,Running Shoes,240,360000,340000,Online
+2025-02-18,North,Delhi,Accessories,Sports Bag,190,95000,100000,Offline
+2025-02-20,West,Mumbai,Apparel,Track Pants,380,228000,220000,Online
+2025-03-01,South,Bangalore,Footwear,Running Shoes,420,630000,600000,Offline
+2025-03-01,North,Delhi,Footwear,Running Shoes,410,615000,580000,Online
+2025-03-03,East,Kolkata,Accessories,Cap,260,52000,55000,Offline
+2025-03-05,West,Mumbai,Footwear,Training Shoes,490,686000,650000,Online
+2025-03-07,South,Chennai,Footwear,Running Shoes,340,510000,490000,Offline
+2025-03-08,North,Delhi,Apparel,Sports T-Shirt,350,210000,200000,Online
+2025-03-10,East,Bhubaneswar,Footwear,Training Shoes,140,196000,200000,Offline
+2025-03-12,West,Ahmedabad,Apparel,Track Pants,220,132000,140000,Online
+2025-03-14,South,Hyderabad,Accessories,Sports Bag,270,135000,130000,Offline
+2025-03-15,North,Chandigarh,Footwear,Running Shoes,180,270000,260000,Online
+2025-03-18,West,Pune,Apparel,Sports T-Shirt,210,126000,130000,Offline
+2025-03-20,South,Bangalore,Accessories,Cap,300,60000,65000,Online
+2025-04-01,North,Delhi,Footwear,Running Shoes,430,645000,610000,Offline
+2025-04-02,West,Mumbai,Footwear,Running Shoes,500,750000,700000,Online
+2025-04-04,South,Bangalore,Apparel,Track Pants,390,234000,220000,Offline
+2025-04-06,East,Kolkata,Footwear,Training Shoes,200,280000,290000,Online
+2025-04-08,North,Delhi,Accessories,Sports Bag,220,110000,115000,Offline
+2025-04-10,West,Mumbai,Apparel,Sports T-Shirt,460,276000,260000,Online
+2025-04-12,South,Chennai,Footwear,Running Shoes,370,555000,530000,Offline
+2025-04-14,East,Bhubaneswar,Apparel,Track Pants,160,96000,100000,Online
+2025-04-16,North,Jaipur,Footwear,Training Shoes,190,266000,270000,Offline
+2025-04-18,West,Pune,Accessories,Cap,240,48000,50000,Online
+2025-04-20,South,Hyderabad,Footwear,Running Shoes,400,600000,570000,Offline
+2025-05-01,North,Delhi,Footwear,Running Shoes,460,690000,650000,Online
+2025-05-02,West,Mumbai,Footwear,Training Shoes,530,742000,700000,Offline
+2025-05-05,South,Bangalore,Apparel,Sports T-Shirt,420,252000,240000,Online
+2025-05-07,East,Kolkata,Footwear,Running Shoes,250,375000,350000,Offline
+2025-05-09,North,Delhi,Accessories,Sports Bag,230,115000,120000,Online
+2025-05-11,West,Mumbai,Apparel,Track Pants,490,294000,280000,Offline
+2025-05-13,South,Chennai,Footwear,Training Shoes,380,532000,510000,Online
+2025-05-15,East,Bhubaneswar,Accessories,Cap,180,36000,40000,Offline
+2025-05-17,North,Chandigarh,Apparel,Sports T-Shirt,200,120000,125000,Online
+2025-05-19,West,Ahmedabad,Footwear,Running Shoes,270,405000,390000,Offline
+2025-06-01,South,Hyderabad,Footwear,Running Shoes,440,660000,630000,Online
+2025-06-03,North,Delhi,Footwear,Training Shoes,480,672000,640000,Offline
+2025-06-05,West,Mumbai,Accessories,Sports Bag,310,155000,160000,Online
+2025-06-07,East,Kolkata,Apparel,Track Pants,230,138000,140000,Offline
+2025-06-09,South,Bangalore,Footwear,Running Shoes,470,705000,670000,Online
+2025-06-11,North,Delhi,Apparel,Sports T-Shirt,400,240000,230000,Offline
+2025-06-13,West,Pune,Footwear,Running Shoes,290,435000,420000,Online
+2025-06-15,South,Chennai,Accessories,Cap,320,64000,65000,Offline
+2025-06-17,East,Bhubaneswar,Footwear,Training Shoes,160,224000,230000,Online
+2025-06-19,North,Jaipur,Accessories,Sports Bag,210,105000,110000,Offline
